@@ -7,7 +7,7 @@
 ### Full Stack Developer • Java Learner • DSA Enthusiast • BTech CSE 
 
 I build clean, practical, and user-focused web applications using modern frontend and backend technologies.  
-Currently sharpening my skills in **Java, Spring Boot, React, Node.js, SQL, and DSA**.
+Currently sharpening my skills in **Java, Spring Boot, React, Node.js, Express.js , MongoDB , SQL, and DSA**.
 
 <br />
 
