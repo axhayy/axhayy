@@ -29,7 +29,7 @@ Currently sharpening my skills in **Java, Spring Boot, React, Node.js, Express.j
 class AkshayGuha {
     String role = "Full Stack Developer";
     String degree = "BTech CSE Final Year";
-    String focus = "Java, Spring Boot, React, DSA";
+    String focus = "Java, Spring Boot, React, DSA , MERN ";
     String mindset = "Build. Debug. Improve. Repeat.";
     void currentGoal() {
         System.out.println("Creating production-ready full stack projects.");
